@@ -44,22 +44,22 @@ The main objective was to observe how ARP table manipulation can redirect networ
 ## 📸 Screenshots
 
 ### Nmap Scan
-![Nmap Scan](screenshots/01-nmap-scan.png)
+![Nmap Scan](screenshots/Nmap-scan.jpeg)
 
 ### ARP Table Before the Attack
-![ARP Table Before](screenshots/02-arp-table-before.png)
+![ARP Table Before](screenshots/arp-table-before.jpeg)
 
 ### ARP Poisoning
-![ARP Poisoning](screenshots/03-arpspoof-running.png)
+![ARP Poisoning](screenshots/arpspoof-running.jpeg)
 
 ### ARP Table After the Attack
-![ARP Table After](screenshots/04-arp-table-after.png)
+![ARP Table After](screenshots/arp-table-after.jpeg)
 
 ### Wireshark Traffic Analysis
-![Wireshark](screenshots/05-wireshark-capture.png)
+![Wireshark](screenshots/wireshark-capture.jpeg)
 
 ### ARP Table Restoration
-![ARP Restoration](screenshots/06-arp-table-restored.png)
+![ARP Restoration](screenshots/arp-table-restored.jpeg)
 
 ## 🛡️ Security Takeaways
 
